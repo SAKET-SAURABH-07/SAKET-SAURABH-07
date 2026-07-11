@@ -61,23 +61,51 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,javascript,html,css" />
 </p>
 
-### AI / ML
+### Machine Learning & Deep Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### Tools & Technologies
+### Computer Vision
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,nodejs" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://img.shields.io/badge/MediaPipe-00A876?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+### Data Science & Visualization
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### MLOps, APIs & Deployment
+
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,nodejs,anaconda" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
 
 ## 📊 GitHub Analytics
 
