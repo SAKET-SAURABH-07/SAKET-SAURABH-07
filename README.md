@@ -14,7 +14,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SAKET-SAURABH-07&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=06B6D4&label=Football&query=%24.status&url=https%3A%2F%2Fapi.github.com&suffix=%20Gold%20Medalist&logo=nike"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
@@ -184,13 +183,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<!-- SNAKE_START -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/SAKET-SAURABH-07/SAKET-SAURABH-07/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-</p>
-<!-- SNAKE_END -->
-<p align="center"><i>👆 Animated snake eating my contribution graph — see setup note below to activate it.</i></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
