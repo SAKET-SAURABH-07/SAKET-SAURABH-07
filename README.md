@@ -16,11 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=SAKET-SAURABH-07&style=for-the-badge&color=blueviolet"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 👨‍💻 About Me
 
@@ -53,36 +51,26 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 💼 Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,sql,html,css,js" />
 </p>
 
-### Machine Learning & Deep Learning
+### ML / AI Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/YOLOv8x-black?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### Computer Vision
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=opencv" />
-<img src="https://img.shields.io/badge/MediaPipe-00A876?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge"/>
-</p>
-
-### Data Science & Visualization
+### Data & Analytics
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -90,26 +78,29 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
-### MLOps, APIs & Deployment
-
-<p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Joblib-013243?style=for-the-badge"/>
 </p>
 
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,nodejs,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+### Core ML Concepts
+
+<p align="center">
+<img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised%20Learning-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Detection-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Face%20Recognition-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clustering-06B6D4?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -131,7 +122,7 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🏆 GitHub Trophies
 
@@ -139,7 +130,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SAKET-SAURABH-07&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🚀 Featured Projects
 
@@ -152,7 +143,7 @@
 | 📱 Kotlin Text-to-Speech App | Android application using Kotlin |
 | 📚 AI-ML-DSA-30-Days-Journey | Daily learning and coding journey |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🌱 Currently Working On
 
@@ -162,7 +153,7 @@
 - 🚀 Open Source Contributions
 - 💻 Full Stack Development
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🏅 Achievements
 
@@ -176,7 +167,7 @@
 
 🌟 Active GitHub Contributor
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 📈 Contribution Graph
 
@@ -184,7 +175,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+---
 
 ## 🌐 Connect With Me
 
@@ -198,10 +189,6 @@
 <a href="mailto:nevergiveup0867@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221857984-345b09aa-e2c1-479c-8e3d-4903c31e5ab0.gif" width="500">
 </p>
 
 <p align="center">
