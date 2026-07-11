@@ -9,16 +9,19 @@
 ### B.Tech Information Technology Student | AI & Machine Learning Enthusiast | Software Developer
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Open+Source+Learner;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast;Building+with+YOLOv8+%26+TensorFlow;Open+Source+Learner;Always+Building+Something+New"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SAKET-SAURABH-07&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=06B6D4&label=Football&query=%24.status&url=https%3A%2F%2Fapi.github.com&suffix=%20Gold%20Medalist&logo=nike"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 👨‍💻 About Me
 
@@ -51,7 +54,7 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 💼 Tech Stack
 
@@ -107,6 +110,8 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -127,7 +132,7 @@
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -135,7 +140,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SAKET-SAURABH-07&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -148,7 +153,7 @@
 | 📱 Kotlin Text-to-Speech App | Android application using Kotlin |
 | 📚 AI-ML-DSA-30-Days-Journey | Daily learning and coding journey |
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🌱 Currently Working On
 
@@ -158,7 +163,7 @@
 - 🚀 Open Source Contributions
 - 💻 Full Stack Development
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🏅 Achievements
 
@@ -172,7 +177,7 @@
 
 🌟 Active GitHub Contributor
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 📈 Contribution Graph
 
@@ -180,30 +185,39 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<!-- SNAKE_START -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/SAKET-SAURABH-07/SAKET-SAURABH-07/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+</p>
+<!-- SNAKE_END -->
+<p align="center"><i>👆 Animated snake eating my contribution graph — see setup note below to activate it.</i></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/SAKET-SAURABH-07">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://www.linkedin.com/in/saket-saurabh-012956291/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto:nevergiveup0867@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f0cb4df-c9f2-4b77-9b4d-6b43a85d9d6f.gif" width="100%">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221857984-345b09aa-e2c1-479c-8e3d-4903c31e5ab0.gif" width="500">
+</p>
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=150&section=footer"/>
 </p>
 
 <div align="center">
