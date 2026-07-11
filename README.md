@@ -205,6 +205,11 @@
 </p>
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</p>
+<p align="center"><i>🕹️ You made it to the bottom — here's a little Pac-Man for the road!</i></p>
+
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
