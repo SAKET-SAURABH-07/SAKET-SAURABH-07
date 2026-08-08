@@ -229,7 +229,7 @@ I'm interested in Software Engineering, Backend Development, AI-powered applicat
 &nbsp;
 <a href="mailto:nevergiveup0867@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 &nbsp;
-<a href="https://saketcodes07.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://saketcodes07.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e1b4b,100:0D1117&height=80&section=footer" width="100%"/>
