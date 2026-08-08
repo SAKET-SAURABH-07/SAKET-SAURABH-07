@@ -37,7 +37,6 @@ I care about code that is modular, maintainable, and practical. My projects are 
 
 ---
 
-## GitHub Activity
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -50,22 +49,9 @@ I care about code that is modular, maintainable, and practical. My projects are 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SAURABH-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Programming Languages"
-    width="45%"
+    alt="GitHub Contribution Streak"
+    width="55%"
   />
 </p>
 
@@ -76,7 +62,6 @@ I care about code that is modular, maintainable, and practical. My projects are 
     width="100%"
   />
 </p>
-
 
 ---
 
