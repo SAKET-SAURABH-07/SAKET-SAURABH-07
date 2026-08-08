@@ -72,20 +72,10 @@ I care about code that is modular, maintainable, and practical. My projects are 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-### Backend & APIs
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST%20APIs-005C84?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OOP%20%26%20SOLID-4F46E5?style=flat-square"/>
-</p>
-
 ### Databases & Storage
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 &nbsp;
-  ## currently learning: 
 <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/DuckDB-FFC107?style=flat-square&logo=duckdb&logoColor=black"/>
@@ -223,7 +213,7 @@ Applied ML concepts in a structured training environment. Worked on supervised l
 - Data Structures & Algorithms (C++ / Python)
 - SQL & Data Analytics
 - System Design fundamentals
-- Backend Engineering patterns
+- Backend Engineering — FastAPI · Flask · Node.js · Express · REST APIs
 - Power BI
 
 ---
