@@ -40,28 +40,26 @@ I care about code that is modular, maintainable, and practical. My projects are 
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SAURABH-07&theme=tokyonight" alt="GitHub profile summary" width="100%"/>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Saket Saurabh GitHub Statistics"
+  />
+  &nbsp;
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="Saket Saurabh GitHub Streak"
+  />
 </p>
 
 <p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKET-SAURABH-07&theme=tokyonight" alt="Repos per language"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKET-SAURABH-07&theme=tokyonight" alt="Most committed language"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKET-SAURABH-07&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SAURABH-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Saket Saurabh Top Languages"
+  />
 </p>
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5&area_color=1e1b4b" alt="Contribution graph" width="100%"/>
-</p>
-
----
 
 ## Engineering Stack
 
