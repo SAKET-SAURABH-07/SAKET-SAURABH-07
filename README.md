@@ -85,6 +85,7 @@ I care about code that is modular, maintainable, and practical. My projects are 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 &nbsp;
+  ## currently learning: 
 <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/DuckDB-FFC107?style=flat-square&logo=duckdb&logoColor=black"/>
