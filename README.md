@@ -65,60 +65,175 @@ I care about code that is modular, maintainable, and practical. My projects are 
 
 ---
 
-## Engineering Stack
+## 🛠️ Engineering Stack
 
-### Languages
+> My stack is a mix of technologies I have hands-on experience with and technologies I am actively learning. I prefer showing that distinction rather than presenting every technology as production-level expertise.
+
+### 💻 Languages
+
+**Hands-on / Used**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### Databases & Storage
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-&nbsp;
-<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DuckDB-FFC107?style=flat-square&logo=duckdb&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Vector%20DBs-06B6D4?style=flat-square"/>
-</p>
-
-### AI / ML Specialization
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-&nbsp;
-<img src="https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square&logo=yolo&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-### Generative AI
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/RAG%20Pipelines-4F46E5?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Anthropic%20API-0D1117?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
-
-### DevOps & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
+**Currently Learning**
+- C++ for Data Structures & Algorithms
+- Deeper JavaScript fundamentals
+- R — basic familiarity
 
 ---
+
+### 🔧 Backend & APIs
+
+**Hands-on / Applied**
+- Python-based application development
+- Streamlit application development
+- API integration through AI/ML projects
+
+**Currently Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST API design
+- Routing, middleware and error handling
+- Backend application structure
+
+---
+
+### 🗄️ Databases & Storage
+
+**Hands-on / Used**
+- SQL
+- DuckDB
+- ChromaDB
+- Vector-based retrieval for RAG applications
+
+**Currently Learning**
+- MongoDB
+- Mongoose
+- Deeper SQL and database design
+- Relational database concepts
+
+---
+
+### 🤖 AI / ML Specialization
+
+**Hands-on / Used**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+- Scikit-learn
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- YOLOv8 / YOLOv8x
+- OpenCV
+- MobileNetV2
+- Joblib
+- Regression, classification and model evaluation
+- Feature engineering
+- Hyperparameter tuning
+- Reproducible ML pipelines
+
+**Currently Learning**
+- Deeper model deployment practices
+- AI application integration
+- Production-oriented ML workflows
+- Connecting ML models with backend services
+
+---
+
+### 🧠 Generative AI
+
+**Hands-on / Used**
+- LangChain
+- ChromaDB
+- Hugging Face Inference API
+- Anthropic API
+- Retrieval-Augmented Generation (RAG)
+- Embedding-based semantic retrieval
+- Context-aware Q&A applications
+
+**Currently Learning**
+- More advanced RAG architectures
+- AI application/backend integration
+- LLM application design
+- Production-oriented AI deployment
+
+---
+
+### ⚙️ DevOps & Development Tools
+
+**Hands-on / Used**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Streamlit
+- Joblib
+- NVIDIA Jetson Nano
+
+**Currently Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions" />
+</p>
+
+- Docker
+- Linux development workflows
+- GitHub Actions / CI-CD fundamentals
+- Application deployment
+- Software engineering practices for production systems
+
+---
+
+### 🌐 Full-Stack Development
+
+**Currently Learning**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react" />
+</p>
+
+- Frontend fundamentals
+- React
+- Node.js + Express
+- RESTful APIs
+- MongoDB / Mongoose
+- Connecting frontend, backend and AI services
+- Building complete end-to-end applications
+
+---
+
+### 📚 Engineering Fundamentals
+
+**Current Foundation**
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- SQL
+- Git/GitHub
+- Clean and maintainable code
+- Data pipelines
+- Model evaluation
+- Reproducible workflows
+
+**Currently Learning**
+- Advanced Data Structures & Algorithms
+- System Design fundamentals
+- Backend architecture
+- API design
+- Full-stack application architecture
+- Deployment and CI/CD
 
 ## Featured Projects
 
