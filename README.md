@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1e1b4b,100:0c4a6e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
 # Saket Saurabh
 
-### Software Engineer · AI/ML Specialist
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+AI%2FML+Specialist;Backend+%7C+APIs+%7C+Computer+Vision;Building+end-to-end+AI-powered+systems" alt="Typing animation"/>
 
 B.Tech Information Technology (AI & ML) &nbsp;·&nbsp; GTBIT, GGSIPU &nbsp;·&nbsp; 2023–2027
 
@@ -32,6 +34,32 @@ I'm a Software Engineering student specializing in AI/ML, building reliable appl
 Currently interning at **FlyRank AI** — developing data and ML workflows using Python, DuckDB, Hugging Face, and feature engineering pipelines. Previously interned at **3Skill Training** on applied AI/ML tasks.
 
 I care about code that is modular, maintainable, and practical. My projects are built end-to-end: architecture decisions, implementation, and deployment.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SAURABH-07&theme=tokyonight" alt="GitHub profile summary" width="100%"/>
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKET-SAURABH-07&theme=tokyonight" alt="Repos per language"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKET-SAURABH-07&theme=tokyonight" alt="Most committed language"/>
+&nbsp;
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKET-SAURABH-07&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+&nbsp;
+<img width="48%" src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5&area_color=1e1b4b" alt="Contribution graph" width="100%"/>
+</p>
 
 ---
 
@@ -103,33 +131,33 @@ I care about code that is modular, maintainable, and practical. My projects are 
 
 ### AI-Powered Applications
 
-**Resume Assistant — RAG Chatbot** &nbsp; [`LangChain`] [`ChromaDB`] [`Anthropic API`] [`Streamlit`]
+**Resume Assistant — RAG Chatbot** &nbsp; `LangChain` `ChromaDB` `Anthropic API` `Streamlit`
 
 Context-aware career assistant built on a Retrieval-Augmented Generation architecture. Ingests resume and job data into a vector store, retrieves relevant context at query time, and generates grounded responses via the Anthropic API. Designed as an end-to-end applied generative AI application with a clean Streamlit interface.
 
 ---
 
-**SGPA / CGPA Predictor** &nbsp; [`Python`] [`Streamlit`] [`Scikit-learn`]
+**SGPA / CGPA Predictor** &nbsp; `Python` `Streamlit` `Scikit-learn`
 
-Deployed academic performance predictor that compares five regression models side-by-side, allowing students to select and use the best-performing estimator. Built with a clean UI and modular ML pipeline — one of my earliest complete software deployments.
+Deployed academic performance predictor that compares five regression models side-by-side, allowing students to select and use the best-performing estimator. Built with a clean UI and modular ML pipeline.
 
 ---
 
 ### Computer Vision Systems
 
-**Signboard Recognition System** &nbsp; [`YOLOv8x`] [`OpenCV`] [`Python`]
+**Signboard Recognition System** &nbsp; `YOLOv8x` `OpenCV` `Python`
 
 Real-time road signboard detection system trained to 95.2% mAP. Implemented the full pipeline: dataset preparation, model fine-tuning, inference optimization, and result visualization. Recognised by GTBIT with a formal Letter of Recommendation.
 
 ---
 
-**TactiVision-AI** &nbsp; [`YOLOv8`] [`ByteTrack`] [`OpenCV`] [`Python`]
+**TactiVision-AI** &nbsp; `YOLOv8` `ByteTrack` `OpenCV` `Python`
 
 End-to-end football tactical analysis system. Detects and tracks players frame-by-frame using YOLOv8 + ByteTrack, applies HSV-based team classification to distinguish sides, and flags referees and goalkeepers. Built with a fully modular architecture for video processing and tactical data extraction.
 
 ---
 
-**Indian Currency Detection** &nbsp; [`MobileNetV2`] [`TTS`] [`Python`]
+**Indian Currency Detection** &nbsp; `MobileNetV2` `TTS` `Python`
 
 Accessibility-focused currency recognition app using transfer learning on MobileNetV2. Identifies Indian currency denominations and announces them via text-to-speech — designed for visually impaired users.
 
@@ -137,11 +165,11 @@ Accessibility-focused currency recognition app using transfer learning on Mobile
 
 ### Machine Learning & Data
 
-**Wine Quality Prediction** &nbsp; [`Python`] [`Scikit-learn`] [`Random Forest`] [`GridSearchCV`]
+**Wine Quality Prediction** &nbsp; `Python` `Scikit-learn` `Random Forest` `GridSearchCV`
 
 End-to-end ML classification pipeline with systematic hyperparameter tuning via GridSearchCV. Focused on feature selection, model evaluation, and pipeline reproducibility.
 
-**AI-Based Hiring Prediction** &nbsp; [`Python`] [`Scikit-learn`] [`Pandas`]
+**AI-Based Hiring Prediction** &nbsp; `Python` `Scikit-learn` `Pandas`
 
 Supervised ML model for recruitment outcome prediction. Covers the full workflow: data preprocessing, feature engineering, model training, and evaluation.
 
@@ -170,24 +198,6 @@ Applied ML concepts in a structured training environment. Worked on supervised l
 **AI Integration** — ML model integration · Computer Vision pipelines · RAG systems · LLM APIs · Vector search
 
 **Dev Practices** — Git · Documentation · Testing fundamentals · Docker · CI/CD basics
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SAURABH-07&theme=tokyonight" alt="GitHub profile summary" width="100%"/>
-</p>
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-&nbsp;
-<img width="48%" src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5" alt="Contribution graph" width="100%"/>
-</p>
 
 ---
 
@@ -231,6 +241,4 @@ I'm interested in Software Engineering, Backend Development, AI-powered applicat
 <a href="https://saketcodes07.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<div align="center">
-<sub>Designed, implemented, and shipped — end to end.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e1b4b,100:0D1117&height=80&section=footer" width="100%"/>
