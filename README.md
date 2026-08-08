@@ -38,28 +38,47 @@ I care about code that is modular, maintainable, and practical. My projects are 
 ---
 
 ## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SAURABH-07&theme=tokyonight"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="Saket Saurabh GitHub Statistics"
+    alt="GitHub Statistics"
+    width="49%"
   />
-  &nbsp;
   <img
-    width="48%"
     src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="Saket Saurabh GitHub Streak"
+    alt="GitHub Streak"
+    width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SAURABH-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Saket Saurabh Top Languages"
+    alt="Top Programming Languages"
+    width="45%"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+
+---
 
 ## Engineering Stack
 
@@ -227,7 +246,7 @@ I'm interested in Software Engineering, Backend Development, AI-powered applicat
 &nbsp;
 <a href="mailto:nevergiveup0867@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 &nbsp;
-<a href="https://saketcodes07.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://saketcodes07.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e1b4b,100:0D1117&height=80&section=footer" width="100%"/>
