@@ -46,15 +46,6 @@ I care about code that is modular, maintainable, and practical. My projects are 
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Contribution Streak"
-    width="55%"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5"
