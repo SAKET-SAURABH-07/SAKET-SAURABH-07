@@ -37,87 +37,47 @@ I care about code that is modular, maintainable, and practical. My projects are 
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
+<!-- Row 1: Main stats + Top Languages -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAKET-SAURABH-07&theme=tokyonight"
-    alt="GitHub Profile Details"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
-
-### 📈 Stats Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=SAKET-SAURABH-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
-    height="180"
+    height="170"
   />
-  &nbsp;
+  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKET-SAURABH-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"
     alt="Top Languages"
-    height="180"
+    height="170"
   />
 </p>
 
-### 🔥 Streak & Consistency
-
+<!-- Row 2: Streak -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4"
+    src="https://streak-stats.demolab.com/?user=SAKET-SAURABH-07&theme=tokyonight&hide_border=true&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4&sideLabels=06B6D4"
     alt="GitHub Streak"
-    width="60%"
+    width="55%"
   />
 </p>
 
-### 🏆 Trophies
-
+<!-- Row 3: Trophies -->
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SAKET-SAURABH-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=SAKET-SAURABH-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
     alt="GitHub Trophies"
     width="100%"
   />
 </p>
 
-### 📦 Repository Breakdown
-
+<!-- Row 4: Contribution graph -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAKET-SAURABH-07&theme=tokyonight"
-    alt="Repos Per Language"
-    height="160"
-  />
-  &nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAKET-SAURABH-07&theme=tokyonight"
-    alt="Most Commit Language"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAKET-SAURABH-07&theme=tokyonight"
-    alt="Stats Card"
-    height="160"
-  />
-  &nbsp;
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAKET-SAURABH-07&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-    height="160"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SAKET-SAURABH-07&theme=tokyo-night&hide_border=true&area=true&line=06B6D4&point=4F46E5"
+    alt="Contribution Graph"
+    width="100%"
   />
 </p>
 
@@ -292,6 +252,8 @@ I care about code that is modular, maintainable, and practical. My projects are 
 - API design
 - Full-stack application architecture
 - Deployment and CI/CD
+
+---
 
 ## Featured Projects
 
